@@ -44,6 +44,9 @@ dependencies:
   google_api_headers: ^4.0.3
   http: ^1.2.1
   google_places_flutter: ^2.0.8
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  cloud_firestore: ^5.1.0
 
 dev_dependencies:
   flutter_test:
